@@ -11,4 +11,6 @@ The  Health and Spatial Justice Lab is not a physical space but rather an umbrel
 # Site map 
 [Courses](courses)
 
+[Summer 2024 Workspace](pages/summer_overview)
+
 [Student Projects](student_projects)
