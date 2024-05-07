@@ -6,3 +6,5 @@ The  Health and Spatial Justice Lab is not a physical space but rather an umbrel
 ## Contributors (Personnel) 
 
 ## Summer 2024 Student Projects 
+
+#![image] 
