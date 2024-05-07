@@ -8,5 +8,7 @@ The  Health and Spatial Justice Lab is not a physical space but rather an umbrel
 
 ![refinery capacity map](images/US_reg_refinery_map.jpg)
 
-# Add a link 
+# [Courses](courses)
+
+Add a link 
 [display text](URL here)
