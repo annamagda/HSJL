@@ -1,6 +1,6 @@
 --- 
 title: Health and Spatial Justice Lab 
-description: An umbrella.... 
+layout: default
 ---
 
 # About
