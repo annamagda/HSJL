@@ -3,7 +3,7 @@ The  Health and Spatial Justice Lab is not a physical space but rather an umbrel
 
 ![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
 
-![teach children poster](teach children not to step on caterpillar poster.jpg)
+![teach children poster](annamagda.github.io/hsjl/main/teach children not to step on caterpillar poster.jpg)
 
 # Add a link 
 [display text](URL here)
