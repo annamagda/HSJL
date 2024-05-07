@@ -1,5 +1,5 @@
 title: Health and Spatial Justice Lab # The top-level website title
-description: An umbrella for student and faculty projects
+description: An umbrella for student and faculty projects at Haverford College
 
 remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
 plugins:
