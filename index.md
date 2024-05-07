@@ -8,7 +8,7 @@ The  Health and Spatial Justice Lab is not a physical space but rather an umbrel
 
 ![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
 
-![refinery capacity map](images/US_regional_refinery_capacity_map.png)
+![refinery capacity map](images/US_reg_refinery_map.jpg)
 
 # Add a link 
 [display text](URL here)
